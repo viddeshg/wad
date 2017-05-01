@@ -763,12 +763,10 @@ section.subs p {
 	line-height:35px;
 	color:#fff;
 }
-.subscribe {
-    margin-top: 89px;
-}
+
 section.subs .subscribe input#email {
     text-align: center;
-    width: 70%;
+    width: 100%;
 	float:left;
 	color:#fff;
 	background-color:transparent;
@@ -777,19 +775,17 @@ section.subs .subscribe input#email {
     height: 50px;
     outline: none;
 	border:1px solid #fff;
-    border-right: transparent;
 	border-radius:0;
 	font-family: 'Open Sans', sans-serif;
 }
 section.subs .subscribe button.btn.btn-outline.btn-lg {
-    width:30%;
-	float:left;
+    width:100%;
+    text-align:center;
     height: 50px;
     font-size: 20px;
     font-weight: normal;
     outline: none;
     color: #fff;
-	border:1px solid #fff;
     background-color:transparent;
 	border-radius:0;
 	font-family: 'Open Sans', sans-serif;
