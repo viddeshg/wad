@@ -8,6 +8,7 @@ body{
 	padding:0;
 	margin:0;
 	background:#FFF;
+
 }
 body a{
     transition:0.5s all;
@@ -131,7 +132,7 @@ ul.top-links li {
 	padding:20px 15px;
 }
 .navbar-brand h1 {
-	font-size:3vw !important;
+	font-size:90% !important;
 	font-weight:normal;
 	color:#28b3b6;
 	text-transform:uppercase;
