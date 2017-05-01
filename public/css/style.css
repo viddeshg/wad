@@ -131,7 +131,7 @@ ul.top-links li {
 	padding:20px 15px;
 }
 .navbar-brand h1 {
-	font-size:35px;
+	font-size:3vw !important;
 	font-weight:normal;
 	color:#28b3b6;
 	text-transform:uppercase;
